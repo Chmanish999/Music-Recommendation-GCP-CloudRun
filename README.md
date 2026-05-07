@@ -1,7 +1,11 @@
 # 🎵 Music Genre Recommendation App
 
-## 📌 Project Overview
-This is a Machine Learning web application that recommends a music genre based on user input (age and gender).
+## Google Cloud Run Deployment
+
+This Music Genre Recommendation Flask App is containerized using Docker and deployed on Google Cloud Run.
+
+Live GCP App:
+https://music-recommendation-app-488043604164.asia-south1.run.app
 
 ## 🚀 Features
 - User-friendly web interface
