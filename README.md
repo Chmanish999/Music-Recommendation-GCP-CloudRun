@@ -5,7 +5,7 @@
 This Music Genre Recommendation Flask App is containerized using Docker and deployed on Google Cloud Run.
 
 Live GCP App:
-https://music-recommendation-app-488043604164.asia-south1.run.app
+https://music-recommendation-gcp-cloudrun-488043604164.asia-south1.run.app
 
 ## 🚀 Features
 - User-friendly web interface
